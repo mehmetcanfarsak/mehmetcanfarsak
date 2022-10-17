@@ -1,9 +1,7 @@
 
 <h1 align="center"> Hi, I'm Mehmet! 👋 </h1><br>
 <p align="center">
-
-<samp align="center">
-
+<samp>
     🔥 Full-stack developer and passionate follower of my dreams.  <br>
     :sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
     :email:	mehmetcanfarsak@gmail.com <br>

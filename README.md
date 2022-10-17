@@ -9,7 +9,7 @@
     :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
 Twitter: https://twitter.com/mehmetcnfarsak?lang=en
                 
-<h2>StartUps I have founded:</h2>   <br>
+<h2>StartUps I have founded:</h2>  
 :rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> <br>
 :credit_card: <a href="https://www.aldimgeldi.com/">AldimGeldi.Com</a> <br>
                 

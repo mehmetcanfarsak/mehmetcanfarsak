@@ -10,8 +10,8 @@
 Twitter: https://twitter.com/mehmetcnfarsak?lang=en
                 
 <h2>StartUps I have founded:</h2>   <br>
-:rocket: Repetiti.Com <br>
-:credit_card: AldimGeldi.Com <br>
+:rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> <br>
+:credit_card: <a href="https://www.aldimgeldi.com/">AldimGeldi.Com</a> <br>
                 
                 
   </samp>

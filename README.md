@@ -4,14 +4,11 @@
 
 <samp align="center">
 
-🔥 Full-stack developer and passionate follower of my dreams.  <br>
-:sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
-:email:	mehmetcanfarsak@gmail.com <br>
-:briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
-Twitter: https://twitter.com/mehmetcnfarsak?lang=en
-
-
-
+    🔥 Full-stack developer and passionate follower of my dreams.  <br>
+    :sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
+    :email:	mehmetcanfarsak@gmail.com <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
+    Twitter: https://twitter.com/mehmetcnfarsak?lang=en
 
 </samp>
 </p>

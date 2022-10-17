@@ -1,7 +1,7 @@
 
-
+<h1 align="center"> Hi, I'm Mehmet! 👋 </h1><br>
 <p align="center">
-<h1> Hi, I'm Mehmet! 👋 </h1><br>
+
 <samp>
 
 🔥 Full-stack developer and passionate follower of my dreams.  <br>
@@ -14,6 +14,8 @@ Twitter: https://twitter.com/mehmetcnfarsak?lang=en
                 
                 
 </samp>
+</p>
+<p align="center">
 <h2>StartUps I have founded:</h2>  
 <samp>
 :rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> <br>

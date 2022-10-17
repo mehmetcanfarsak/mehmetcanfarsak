@@ -7,11 +7,11 @@
     :sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
     :email:	mehmetcanfarsak@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
-                Twitter: https://twitter.com/mehmetcnfarsak?lang=en
+Twitter: https://twitter.com/mehmetcnfarsak?lang=en
                 
-    <h2>StartUps I have founded:</h2>   <br>
-    :rocket: Repetiti.Com <br>
-    :credit_card: AldimGeldi.Com <br>
+<h2>StartUps I have founded:</h2>   <br>
+:rocket: Repetiti.Com <br>
+:credit_card: AldimGeldi.Com <br>
                 
                 
   </samp>

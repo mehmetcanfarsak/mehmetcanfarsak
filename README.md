@@ -15,8 +15,8 @@
 
 <p align="center">
 <samp align="center">
-:rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> <br>
-:credit_card: <a href="https://www.aldimgeldi.com/">AldimGeldi.Com</a> <br>
+:rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> (Easiest Way To Control 3d Printers) <br>
+:credit_card: <a href="https://www.aldimgeldi.com/">AldimGeldi.Com</a> (Biggest 3d manufacturer in Turkey and Mena region)<br>
 
 </samp>
 </p>

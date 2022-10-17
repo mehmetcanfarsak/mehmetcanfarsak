@@ -15,11 +15,13 @@ Twitter: https://twitter.com/mehmetcnfarsak?lang=en
 
 </samp>
 </p>
+
+<h2 align="center">StartUps I have founded:</h2>
+
 <p align="center">
-<h2 align="center">StartUps I have founded:</h2>  
 <samp align="center">
 :rocket: <a href="https://www.repetiti.com/">Repetiti.Com</a> <br>
 :credit_card: <a href="https://www.aldimgeldi.com/">AldimGeldi.Com</a> <br>
-    
+
 </samp>
 </p>

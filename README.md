@@ -9,10 +9,10 @@
 :email:	mehmetcanfarsak@gmail.com <br>
 :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
 Twitter: https://twitter.com/mehmetcnfarsak?lang=en
-                
 
-                
-                
+
+
+
 </samp>
 </p>
 <p align="center">

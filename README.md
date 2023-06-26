@@ -6,7 +6,8 @@
     :sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
     :email:	mehmetcanfarsak@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
-    Twitter: https://twitter.com/mehmetcnfarsak?lang=en
+    Twitter: https://twitter.com/mehmetcnfarsak?lang=en <br>
+    My Articles on Medium: https://medium.com/@mehmetcanfarsak
 
 </samp>
 </p>

@@ -3,7 +3,7 @@
 <p align="center">
 <samp>
     🔥 Full-stack developer and passionate follower of my dreams.  <br>
-    :sparkles: Favorite Tech: Python, FastApi, Flask, FastText ... <br>
+    :sparkles: Favorite Tech: Python, FastApi, Svelte, React, React-Native, Flask, FastText ... <br>
     :email:	mehmetcanfarsak@gmail.com <br>
     :briefcase: LinkedIn: https://linkedin.com/in/mehmetcanfarsak <br>
     Twitter: https://twitter.com/mehmetcnfarsak?lang=en <br>
